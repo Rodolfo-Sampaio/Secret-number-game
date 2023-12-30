@@ -1,3 +1,5 @@
+[Don't speak Portuguese? Click here to access the English version.](https://github.com/Rodolfo-Sampaio/secret-number-game/blob/main/README-EN.md)
+
  # 🎲 Jogo do Número Secreto <a href="https://github.com/Rodolfo-Sampaio/secret-number-game/blob/main/LICENSE"><img src="https://img.shields.io/npm/l/react" alt="NPM" align="right"></a>
 
 Conduzido pelos instrutores Guilherme Lima e Monica Hillman, é parte do curso:
@@ -12,7 +14,7 @@ Uma característica única do projeto é a capacidade de leitura de texto, propo
 ---
 ![game](https://github.com/Rodolfo-Sampaio/secret-number-game/assets/96917363/c11b8bc0-875f-4d37-81f4-7ecf0b616e82)
 
-Para permitir a leitura do texto click em "Allow".
+Para permitir a leitura do texto clique em "Allow".
 
 <img src="https://github.com/Rodolfo-Sampaio/secret-number-game/assets/96917363/3fe63c3f-2e34-49e1-8543-c3422dd12a0f" width="400px">
 
