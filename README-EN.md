@@ -2,7 +2,7 @@
 
  # 🎲 Secret Number Game <a href="https://github.com/Rodolfo-Sampaio/secret-number-game/blob/main/LICENSE"><img src="https://img.shields.io/npm/l/react" alt="NPM" align="right"></a>
 
-Led by instructors Guilherme Lima and Monica Hillman, it's part of the course::
+Led by instructors Guilherme Lima and Monica Hillman, it's part of the course:
 ### Lógica de programação: explore funções e listas da [Alura](https://cursos.alura.com.br/course/logica-programacao-funcoes-listas) ⭐
 In this project, dynamic manipulation of HTML elements, such as H1 and paragraph (p), is explored using JavaScript to alter the displayed text on the page, creating dynamic and interactive web pages.
 
