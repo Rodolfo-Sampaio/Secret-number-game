@@ -10,7 +10,7 @@ Uma característica única do projeto é a capacidade de leitura de texto, propo
 
 <br>
 
-### ### Layout Responsivo para Mobile, Tablet e Desktop
+### Layout Responsivo para Mobile, Tablet e Desktop
 ---
 ![game](https://github.com/Rodolfo-Sampaio/secret-number-game/assets/96917363/c11b8bc0-875f-4d37-81f4-7ecf0b616e82)
 
