@@ -56,6 +56,6 @@ To enable text-to-speech, click "Allow.".
 [Monica Hillman](https://github.com/MonicaHillman)
 <br>
 <br>
-### 🚀 Thanks for checking out my Git. If you enjoyed it, let's chat! Drop a [`Follow`](https://github.com/Rodolfo-Sampaio), I'm always here. 😎👩‍💻
+#### 🚀Thank you for visiting my Git. If you give me a [`Follow`](https://github.com/Rodolfo-Sampaio), I'll be happy to return the favor!  😎👩‍💻
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D3D3D3&height=120&section=footer"/>
