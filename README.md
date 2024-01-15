@@ -56,6 +56,6 @@ Para permitir a leitura do texto clique em "Allow".
 [Monica Hillman](https://github.com/MonicaHillman)
 <br>
 <br>
-### 🚀 Valeu pela passada no meu Git. Se curtiu, bora trocar ideias! Dá um [`Follow`](https://github.com/Rodolfo-Sampaio) que tô sempre por aqui.  😎👩‍💻
+#### Obrigado por visitar meu Git. Se você der um [`Follow`](https://github.com/Rodolfo-Sampaio), ficarei feliz em retribuir!🚀💻
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D3D3D3&height=120&section=footer"/>
